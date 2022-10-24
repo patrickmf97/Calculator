@@ -31,6 +31,13 @@
 .botao:hover {
   background-color: black;
 }
+.btn {
+  font-weight: bold;
+  background-color: rgb(131, 55, 55);
+}
+.btn:hover {
+  background-color: rgb(31, 14, 14);
+}
 #resultado {
   background-color: white;
   width: 212px;
